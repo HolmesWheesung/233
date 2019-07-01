@@ -1,7 +1,7 @@
 [
   {
     "Category_id": "baseLearn",
-    "category_CN": "常用",
+    "category_CN": "经常使用",
     "category_icon": "icon-xuexi",
     "category_item": "baseLearnItem",
     "item_children": [
@@ -58,7 +58,7 @@
   },
   {
     "Category_id": "apiDoc",
-    "category_CN": "综合",
+    "category_CN": "综合网站",
     "category_icon": "icon-icon_bangzhuwendang",
     "category_item": "apiDocItem",
     "item_children": [
@@ -90,7 +90,7 @@
   },
   {
     "Category_id": "portalsCommunity",
-    "category_CN": "外网",
+    "category_CN": "墙外世界",
     "category_icon": "icon-songmenhuwangzhan",
     "category_item": "portalsCommunityItem",
     "item_children": [
@@ -113,34 +113,34 @@
         "child_desc": "Twitter是一家美国社交网络及微博客服务的网站。"
       },
       {
+        "child_name": "Instagram",
+        "img_src": "./img/instagram.png",
+        "a_href": "https://www.instagram.com/",
+        "child_desc": "Instagram以一种快速、美妙和有趣的方式将你随时抓拍下的图片彼此分享。"
+      },
+      {
+        "child_name": "Pixiv",
+        "img_src": "./img/pixiv.png",
+        "a_href": "https://www.pixiv.net/",
+        "child_desc": "pixiv是一个集插画·漫画·小说投稿及阅览于一体的“绘图交流平台”。"
+      },
+      {
         "child_name": "GitHub",
         "img_src": "./img/github.png",
         "a_href": "https://github.com/",
         "child_desc": "一个面向开源及私有软件项目的托管平台,全球最大同性交友网站"
       },
       {
-        "child_name": "Stack Overflow",
-        "img_src": "./img/StackOverflow.png",
-        "a_href": "https://stackoverflow.com/",
-        "child_desc": "全球最大的技术问答网站，是一个与程序相关的IT技术问答网站"
+        "child_name": "Shadowsocks",
+        "img_src": "./img/shadowsocks.png",
+        "a_href": "https://portal.shadowsocks.nu/",
+        "child_desc": "无缝体验真实的互联网。"
       },
       {
-        "child_name": "掘金 - juejin.im",
-        "img_src": "./img/juejin.png",
-        "a_href": "https://juejin.im/welcome/frontend",
-        "child_desc": "一个帮助开发者成长的社区"
-      },
-      {
-        "child_name": "SegmentFault 思否",
-        "img_src": "./img/segmentfault.png",
-        "a_href": "https://segmentfault.com/channel/frontend",
-        "child_desc": "SegmentFault 思否 为开发者提供问答、学习与交流编程知识的平台，创造属于开发者的时代！"
-      },
-      {
-        "child_name": "前端网（QDFuns）",
-        "img_src": "./img/qdfuns.png",
-        "a_href": "https://www.qdfuns.com/",
-        "child_desc": "WEB前端开发工程师专业网站，一站式服务平台！"
+        "child_name": "Pokemon Fusion",
+        "img_src": "./img/pokemon fusion.png",
+        "a_href": "https://pokemon.alexonsager.net/",
+        "child_desc": "Pokemon Fusion: Automatically fuse two pokemon to create an entirely different creature."
       },
       {
         "child_name": "博客园",
