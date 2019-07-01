@@ -1,15 +1,15 @@
 ﻿[
   {
     "Category_id": "baseLearn",
-    "category_CN": "学习的资源",
+    "category_CN": "常用",
     "category_icon": "icon-xuexi",
     "category_item": "baseLearnItem",
     "item_children": [
       {
-        "child_name": "Hulkye's 前端笔记本",
+        "child_name": "新浪微博",
         "img_src": "./img/Hulkye.png",
-        "a_href": "https://hulkye.github.io/Docs/",
-        "child_desc": "个人的前端学习笔记本,记录些许"
+        "a_href": "https://weibo.com/337889899/home?wvr=5&from=newtab",
+        "child_desc": "随时随地 发现新鲜事"
       },
       {
         "child_name": "Mozilla 开发者网络",
