@@ -90,10 +90,28 @@
   },
   {
     "Category_id": "portalsCommunity",
-    "category_CN": "门户&社区",
+    "category_CN": "外网",
     "category_icon": "icon-songmenhuwangzhan",
     "category_item": "portalsCommunityItem",
     "item_children": [
+      {
+        "child_name": "Facebook",
+        "img_src": "./img/facebook.png",
+        "a_href": "https://www.facebook.com/",
+        "child_desc": "Facebook 是一个联系朋友的社交工具。"
+      },
+      {
+        "child_name": "Youtube",
+        "img_src": "./img/youtube.png",
+        "a_href": "https://www.youtube.com",
+        "child_desc": "YouTube是一个视频网站。"
+      },
+      {
+        "child_name": "Twitter",
+        "img_src": "./img/twitter.png",
+        "a_href": "https://twitter.com/",
+        "child_desc": "Twitter是一家美国社交网络及微博客服务的网站。"
+      },
       {
         "child_name": "GitHub",
         "img_src": "./img/github.png",
