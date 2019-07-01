@@ -7,9 +7,9 @@
     "item_children": [
       {
         "child_name": "新浪微博",
-        "img_src": "./img/Hulkye.png",
+        "img_src": "./img/weibo.png",
         "a_href": "https://weibo.com/337889899/home?wvr=5&from=newtab",
-        "child_desc": "随时随地 发现新鲜事"
+        "child_desc": "随时随地 发现新鲜事！"
       },
       {
         "child_name": "Mozilla 开发者网络",
