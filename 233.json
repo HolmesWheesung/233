@@ -28,6 +28,18 @@
         "img_src": "./img/huya.png",
         "a_href": "https://www.huya.com/",
         "child_desc": "虎牙直播-技术驱动娱乐-弹幕式互动直播平台"
+      },
+      {
+        "child_name": "斗鱼",
+        "img_src": "./img/douyu.png",
+        "a_href": "https://www.douyu.com/",
+        "child_desc": "斗鱼- 每个人的直播平台官"
+      },
+      {
+        "child_name": "Steam",
+        "img_src": "./img/steam.png",
+        "a_href": "https://store.steampowered.com/",
+        "child_desc": "Welcome to Steam"
       }
 
     ]
