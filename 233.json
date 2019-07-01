@@ -16,6 +16,18 @@
         "img_src": "./img/bilibili.png",
         "a_href": "https://www.bilibili.com/",
         "child_desc": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili"
+      },
+      {
+        "child_name": "淘宝",
+        "img_src": "./img/taobao.png",
+        "a_href": "https://www.taobao.com/",
+        "child_desc": "淘！我喜欢"
+      },
+      {
+        "child_name": "虎牙",
+        "img_src": "./img/huya.png",
+        "a_href": "https://www.huya.com/",
+        "child_desc": "虎牙直播-技术驱动娱乐-弹幕式互动直播平台"
       }
     ]
   },
