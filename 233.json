@@ -2174,58 +2174,10 @@
         "child_desc": "版本控制工具"
       },
       {
-        "child_name": "马克鳗",
-        "img_src": "./img/markman.png",
-        "a_href": "http://www.getmarkman.com/",
-        "child_desc": "高效的设计稿标注、测量工具"
-      },
-      {
-        "child_name": "PxCook",
-        "img_src": "./img/pxcook.png",
-        "a_href": "https://www.fancynode.com.cn/pxcook",
-        "child_desc": "高效易用的自动标注工具, 生成前端代码"
-      },
-      {
         "child_name": "Bandizip",
         "img_src": "./img/bandizip.png",
         "a_href": "http://www.bandizip.com/",
         "child_desc": "个人最满意的压缩工具，没有之一"
-      },
-      {
-        "child_name": "Typora",
-        "img_src": "./img/typora.png",
-        "a_href": "https://www.typora.io/",
-        "child_desc": "一个适合新手的md编辑器，很好用"
-      },
-      {
-        "child_name": "ScreenToGif",
-        "img_src": "./img/ScreenToGif.png",
-        "a_href": "https://www.screentogif.com/?l=zh_cn",
-        "child_desc": "非常好用的gif生成器"
-      },
-      {
-        "child_name": "Fences",
-        "img_src": "./img/fences.png",
-        "a_href": "https://www.stardock.com/products/fences/",
-        "child_desc": "最好的桌面整理软件"
-      },
-      {
-        "child_name": "Everything",
-        "img_src": "./img/Everything.png",
-        "a_href": "https://www.voidtools.com/zh-cn/",
-        "child_desc": "快速定位本地资源文件"
-      },
-      {
-        "child_name": "Listary",
-        "img_src": "./img/listary.png",
-        "a_href": "https://www.listary.com/",
-        "child_desc": "文件名定位/搜索辅助软件"
-      },
-      {
-        "child_name": "Snipaste",
-        "img_src": "./img/snipaste.png",
-        "a_href": "https://www.snipaste.com/",
-        "child_desc": "最好用的截图软件，没有之一"
       }
     ]
   }
