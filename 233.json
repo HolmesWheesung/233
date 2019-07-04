@@ -109,160 +109,14 @@
         "img_src": "./img/pokemon fusion.png",
         "a_href": "https://pokemon.alexonsager.net/",
         "child_desc": "Pokemon Fusion: Automatically fuse two pokemon to create an entirely different creature."
-      },
-      {
-        "child_name": "博客园",
-        "img_src": "./img/cnblogs.png",
-        "a_href": "https://www.cnblogs.com/",
-        "child_desc": "博客园是一个面向开发者的知识分享社区。"
-      },
-      {
-        "child_name": "伯乐在线",
-        "img_src": "./img/jobbole.png",
-        "a_href": "http://web.jobbole.com/",
-        "child_desc": "WEB前端 - 伯乐在线"
-      },
-      {
-        "child_name": "CSDN",
-        "img_src": "./img/csdn.png",
-        "a_href": "https://www.csdn.net/nav/web",
-        "child_desc": "CSDN-专业IT技术社区"
-      },
-      {
-        "child_name": "前端乱炖",
-        "img_src": "./img/html-js.png",
-        "a_href": "http://www.html-js.com/",
-        "child_desc": "前端乱炖，这里是最专业的前端知识平台，汇集国内大部分前端开发人员的前端花名册，最精彩的原创文章专栏，最专业的问答平台，最火热的话题频道，最丰富的线下线上活动。"
-      },
-      {
-        "child_name": "v2ex",
-        "img_src": "./img/v2ex.png",
-        "a_href": "https://www.v2ex.com/",
-        "child_desc": "一个关于分享和探索的地方"
-      },
-      {
-        "child_name": "众成翻译",
-        "img_src": "./img/zcfy.png",
-        "a_href": "https://zcfy.cc/",
-        "child_desc": "中国最好的技术翻译社区，最懂译者的翻译平台，奇虎360最大前端团队“奇舞团”出品"
-      },
-      {
-        "child_name": "InfoQ",
-        "img_src": "./img/infoq.png",
-        "a_href": "https://www.infoq.cn/",
-        "child_desc": "InfoQ 是一个实践驱动的社区资讯站点，致力于促进软件开发领域知识与创新的传播。"
-      },
-      {
-        "child_name": "IBM-developerworks",
-        "img_src": "./img/IBMdeveloperworks.png",
-        "a_href": "https://www.ibm.com/developerworks/cn/",
-        "child_desc": "IBM developerWorks，IBM 的官方开发者项目。学习资源，开发工具，和技术社区。"
-      },
-      {
-        "child_name": "知乎",
-        "img_src": "./img/zhihu.png",
-        "a_href": "https://www.zhihu.com/",
-        "child_desc": "每日必刷，可以关注前端开发等话题"
-      },
-      {
-        "child_name": "w3cplus",
-        "img_src": "./img/w3cplus.png",
-        "a_href": "https://www.w3cplus.com/",
-        "child_desc": "引领web前沿，打造前端精品教程"
-      },
-      {
-        "child_name": "HTML5梦工场",
-        "img_src": "./img/html5dw.png",
-        "a_href": "http://www.html5dw.com/",
-        "child_desc": "HTML5梦工场是中国最大的前端开发者社区"
-      },
-      {
-        "child_name": "大前端",
-        "img_src": "./img/daqianduan.png",
-        "a_href": "http://www.daqianduan.com/",
-        "child_desc": "大前端是一个关注前端开发、用户体验设计、HTML5、CSS3、Javascript的前端开发独立博客。"
-      },
-      {
-        "child_name": "开源中国",
-        "img_src": "./img/oschina.png",
-        "a_href": "https://www.oschina.net/",
-        "child_desc": "开源中国 www.oschina.net 是目前中国最大的开源技术社区。"
-      },
-      {
-        "child_name": "W3Cways",
-        "img_src": "./img/w3cways.png",
-        "a_href": "https://www.w3cways.com/",
-        "child_desc": "Web前端学习之路，网站提供很丰富的相关技术中文文档。"
-      },
-      {
-        "child_name": "WEB前端开发(css88)",
-        "img_src": "./img/css88.png",
-        "a_href": "https://www.css88.com/",
-        "child_desc": "web前端开发，专注前端开发，关注用户体验，关注国内外最新最好的前端开发技术和前端开发资讯的专业博客"
-      },
-      {
-        "child_name": "Awesomes-Web前端开发资源库",
-        "img_src": "./img/awesomes.png",
-        "a_href": "https://www.awesomes.cn/",
-        "child_desc": "Web前端开发工程师需要的免费开源的高质量前端库、框架和插件"
-      },
-      {
-        "child_name": "Helloweba",
-        "img_src": "./img/helloweba.png",
-        "a_href": "https://www.helloweba.net/",
-        "child_desc": "Helloweba为广大WEB开发者提供Javascript前端、PHP后端、服务器运维知识以及业界相关的高质量技术文章分享."
-      },
-      {
-        "child_name": "PHP中文网",
-        "img_src": "./img/phpcn.png",
-        "a_href": "http://www.php.cn/",
-        "child_desc": "php中文网-教程_手册_视频-免费php在线学习平台."
-      },
-      {
-        "child_name": "前端里",
-        "img_src": "./img/yyyweb.png",
-        "a_href": "http://www.yyyweb.com/",
-        "child_desc": "专注于分享最前沿的Web开发技术，教程，资源和素材，是面向网站开发人员和设计师的学习交流平台"
       }
     ]
   },
   {
     "Category_id": "portalsCommunity",
-    "category_CN": "综合网站",
+    "category_CN": "学习资源",
     "category_icon": "icon-songmenhuwangzhan",
     "category_item": "portalsCommunityItem",
-    "item_children": [
-      {
-        "child_name": "Pornhub",
-        "img_src": "./img/pornhub.png",
-        "a_href": "https://www.pornhub.com/",
-        "child_desc": "Pornhub: Free Porn Videos & Sex Movies - Porno, XXX, Porn Tube"
-      },
-      {
-        "child_name": "Tokyo-Hot",
-        "img_src": "./img/tokyo-hot.png",
-        "a_href": "https://www.tokyo-hot.com/",
-        "child_desc": "年齢確認 | Tokyo-Hot 東京熱 無修正オリジナル徹底凌辱動画"
-      },
-      {
-        "child_name": "AVMOO",
-        "img_src": "./img/avmoo.png",
-        "a_href": "https://tellme.pw/avmoo",
-        "child_desc": "AVMOO - 你的线上日本成人影片情报站。管理你的影片并分享你的想法。"
-      },
-      {
-        "child_name": "Spankwire",
-        "img_src": "./img/spankwire.png",
-        "a_href": "http://www.spankwire.com/categories/Straight",
-        "child_desc": "Free Porn, Sex Videos 4 You, Porno Hub, Porn Tube, XXX Movies"
-      }
-    ]
-  },
-  {
-    "Category_id": "baseLearn",
-    "category_CN": "学习资源",
-    "category_icon": "icon-xuexi",
-    "category_item": "baseLearnItem",
     "item_children": [
       {
         "child_name": "Hulkye's 前端笔记本",
@@ -407,6 +261,38 @@
         "img_src": "./img/frontend-notebook.png",
         "a_href": "https://github.com/521xueweihan/git-tips",
         "child_desc": "列举了常用的 Git 命令和一些小技巧"
+      }
+    ]
+  },
+  {
+    "Category_id": "baseLearn",
+    "category_CN": "综合网站",
+    "category_icon": "icon-xuexi",
+    "category_item": "baseLearnItem",
+    "item_children": [
+      {
+        "child_name": "Pornhub",
+        "img_src": "./img/pornhub.png",
+        "a_href": "https://www.pornhub.com/",
+        "child_desc": "Pornhub: Free Porn Videos & Sex Movies - Porno, XXX, Porn Tube"
+      },
+      {
+        "child_name": "Tokyo-Hot",
+        "img_src": "./img/tokyo-hot.png",
+        "a_href": "https://www.tokyo-hot.com/",
+        "child_desc": "年齢確認 | Tokyo-Hot 東京熱 無修正オリジナル徹底凌辱動画"
+      },
+      {
+        "child_name": "AVMOO",
+        "img_src": "./img/avmoo.png",
+        "a_href": "https://tellme.pw/avmoo",
+        "child_desc": "AVMOO - 你的线上日本成人影片情报站。管理你的影片并分享你的想法。"
+      },
+      {
+        "child_name": "Spankwire",
+        "img_src": "./img/spankwire.png",
+        "a_href": "http://www.spankwire.com/categories/Straight",
+        "child_desc": "Free Porn, Sex Videos 4 You, Porno Hub, Porn Tube, XXX Movies"
       }
     ]
   }
