@@ -57,10 +57,10 @@
     ]
   },
   {
-    "Category_id": "portalsCommunity",
+    "Category_id": "apiDoc",
     "category_CN": "灵感采集",
-    "category_icon": "icon-songmenhuwangzhan",
-    "category_item": "portalsCommunityItem",
+    "category_icon": "icon-icon_bangzhuwendang",
+    "category_item": "apiDocItem",
     "item_children": [
       {
         "child_name": "Facebook",
@@ -227,10 +227,10 @@
     ]
   },
   {
-    "Category_id": "apiDoc",
+    "Category_id": "portalsCommunity",
     "category_CN": "综合网站",
-    "category_icon": "icon-icon_bangzhuwendang",
-    "category_item": "apiDocItem",
+    "category_icon": "icon-songmenhuwangzhan",
+    "category_item": "portalsCommunityItem",
     "item_children": [
       {
         "child_name": "Pornhub",
