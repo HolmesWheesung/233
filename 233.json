@@ -9,43 +9,43 @@
         "child_name": "新浪微博",
         "img_src": "./img/weibo.png",
         "a_href": "https://weibo.com/337889899/home?wvr=5&from=newtab",
-        "child_desc": "随时随地 发现新鲜事！"
+        "child_desc": "撕逼的"
       },
       {
         "child_name": "Bilibili",
         "img_src": "./img/bilibili.png",
         "a_href": "https://www.bilibili.com/",
-        "child_desc": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili"
+        "child_desc": "看片的"
       },
       {
         "child_name": "淘宝",
         "img_src": "./img/taobao.png",
         "a_href": "https://www.taobao.com/",
-        "child_desc": "淘！我喜欢"
+        "child_desc": "买东西的"
       },
       {
         "child_name": "虎牙",
         "img_src": "./img/huya.png",
         "a_href": "https://www.huya.com/",
-        "child_desc": "虎牙直播-技术驱动娱乐-弹幕式互动直播平台"
+        "child_desc": "看直播的"
       },
       {
         "child_name": "斗鱼",
         "img_src": "./img/douyu.png",
         "a_href": "https://www.douyu.com/",
-        "child_desc": "斗鱼- 每个人的直播平台官"
+        "child_desc": "看直播的"
       },
       {
         "child_name": "Steam",
         "img_src": "./img/steam.png",
         "a_href": "https://store.steampowered.com/",
-        "child_desc": "Welcome to Steam"
+        "child_desc": "买游戏的"
       },
       {
         "child_name": "Google JP",
         "img_src": "./img/google.png",
         "a_href": "https://www.google.co.jp/",
-        "child_desc": "谷歌搜索引擎 - Google"
+        "child_desc": "找资料的"
       }
 
     ]
@@ -60,43 +60,37 @@
         "child_name": "Facebook",
         "img_src": "./img/facebook.png",
         "a_href": "https://www.facebook.com/",
-        "child_desc": "Facebook 是一个联系朋友的社交工具。"
+        "child_desc": "没什么用。"
       },
       {
         "child_name": "Youtube",
         "img_src": "./img/youtube.png",
         "a_href": "https://www.youtube.com",
-        "child_desc": "YouTube是一个视频网站。"
+        "child_desc": "看片的。"
       },
       {
         "child_name": "Twitter",
         "img_src": "./img/twitter.png",
         "a_href": "https://twitter.com/",
-        "child_desc": "Twitter是一家美国社交网络及微博客服务的网站。"
+        "child_desc": "找资料的"
       },
       {
         "child_name": "Instagram",
         "img_src": "./img/instagram.png",
         "a_href": "https://www.instagram.com/",
-        "child_desc": "Instagram以一种快速、美妙和有趣的方式将你随时抓拍下的图片彼此分享。"
+        "child_desc": "挺好玩的"
       },
       {
         "child_name": "Pixiv",
         "img_src": "./img/pixiv.png",
         "a_href": "https://www.pixiv.net/",
-        "child_desc": "pixiv是一个集插画·漫画·小说投稿及阅览于一体的“绘图交流平台”。"
+        "child_desc": "好看"
       },
       {
         "child_name": "GitHub",
         "img_src": "./img/github.png",
         "a_href": "https://github.com/",
-        "child_desc": "一个面向开源及私有软件项目的托管平台,全球最大同性交友网站"
-      },
-      {
-        "child_name": "Shadowsocks",
-        "img_src": "./img/shadowsocks.png",
-        "a_href": "https://portal.shadowsocks.nu/",
-        "child_desc": "无缝体验真实的互联网。"
+        "child_desc": "使用方便"
       },
       {
         "child_name": "Pokemon Fusion",
