@@ -60,13 +60,13 @@
         "child_name": "Facebook",
         "img_src": "./img/facebook.png",
         "a_href": "https://www.facebook.com/",
-        "child_desc": "没什么用。"
+        "child_desc": "没什么用"
       },
       {
         "child_name": "Youtube",
         "img_src": "./img/youtube.png",
         "a_href": "https://www.youtube.com",
-        "child_desc": "看片的。"
+        "child_desc": "看片的"
       },
       {
         "child_name": "Twitter",
@@ -285,4 +285,3 @@
     ]
   }
 ]
-    
